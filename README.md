@@ -31,3 +31,4 @@ button onClick={handleClick}>Click Me button
 
 
 This approach allows React to efficiently manage events and ensure cross-browser compatibility.# Customer_Support
+# Customer_Support
