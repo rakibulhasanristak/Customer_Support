@@ -26,8 +26,8 @@ State management libraries – Use tools like Redux, Zustand, or Recoil for mana
 # How is event handling done in React?
 
 React handles events using its synthetic event system, which ensures consistent behavior across browsers. Event names follow camelCase conventions (e.g., onClick instead of onclick), and event handlers are passed as functions, not strings. For example:
-
-<button onClick={handleClick}>Click Me</button>
+ 
+<!-- <button onClick={handleClick}>Click Me</button> -->
 
 
 This approach allows React to efficiently manage events and ensure cross-browser compatibility.
